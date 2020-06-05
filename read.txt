@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 1873-01F7
+
+ Directory of C:\Users\JohnS\Desktop\JP
+
+05-06-2020  16:54    <DIR>          .
+05-06-2020  16:54    <DIR>          ..
+05-06-2020  16:38               174 Hello.java
+05-06-2020  16:54                 0 read.txt
+               2 File(s)            174 bytes
+               2 Dir(s)  78,852,562,944 bytes free
